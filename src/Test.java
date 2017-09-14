@@ -9,7 +9,7 @@ public class Test {
     }
 
     public static void main(){
-        System.out.println("Ilan5.1");
+        System.out.println("Ilan5.2");
 
     }
 }
